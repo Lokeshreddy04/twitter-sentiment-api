@@ -1,0 +1,10 @@
+{
+    "lowercase": true,
+    "min_frequency": 2,
+    "max_vocab_size": 50000,
+    "pad_token": "<PAD>",
+    "unk_token": "<UNK>",
+    "pad_id": 0,
+    "unk_id": 1,
+    "normalization_version": 1
+}
