@@ -22,3 +22,5 @@ Thumbs.db
 
 # Development artifacts
 requirements-lock.txt
+
+.ipynb
